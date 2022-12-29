@@ -1,5 +1,5 @@
 <h1 align="center">Howdy Ya'll 👋, I'm Greg Starr</h1>
-<h3 align="center">A passionate frontend developer based in Austin, Tx.</h3>
+<h3 align="center">An experienced frontend developer based in Austin, Tx.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregorystarr&label=Profile%20views&color=0e75b6&style=flat" alt="gregorystarr" /> </p>
 
