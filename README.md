@@ -1,4 +1,4 @@
-<h1 align="center">Howdy Ya'll 👋, I'm Greg Starr</h1>
+<h1 align="center">Howdy Ya'll 👋, I'm Greg,</h1>
 <h3 align="center">An experienced frontend developer based in Austin, Tx.</h3>
 
 ###
