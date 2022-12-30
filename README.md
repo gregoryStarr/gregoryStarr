@@ -28,15 +28,7 @@
   
   <img height="250" src="https://cdn.discordapp.com/attachments/1012691893865414670/1058212108858306670/gstarrltd_abrupt_chaos_aa8dc983-c54e-44a3-a7f4-933808070518.png"  />
   
-  <img height="250" src="https://cdn.discordapp.com/ephemeral-attachments/1012691893865414670/1058212437251338250/progress_image_90_88549c33-5b2f-4db1-bfc4-dc44c0cafbd0.webp"  />
-  
-  <img height="250" src="https://cdn.discordapp.com/attachments/1012691893865414670/1058211743865778286/gstarrltd_abrupt_chaos_24718df1-55a0-4c87-898f-6a2807c8876c.png"  />
-  
-  <img height="250" src="https://cdn.discordapp.com/attachments/1012691893865414670/1058211604644237322/gstarrltd_abrupt_chaos_8c6a41d7-925f-47dc-a409-63b05211907e.png"  />
-  
-  <img height="250" src="https://cdn.midjourney.com/acbdfab8-4600-4075-b24a-313e23cdf228/grid_0.png"  />
-
-  
+  <img height="250" src="https://cdn.discordapp.com/ephemeral-attachments/1012691893865414670/1058212437251338250/progress_image_90_88549c33-5b2f-4db1-bfc4-dc44c0cafbd0.webp"  />  
 </div>
 ###
 
@@ -69,6 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
+
 ###
 
 - 🔭 I’m currently working on **A new ticket management system**
@@ -99,8 +92,18 @@
   <img src="https://img.shields.io/badge/maintained-yes-blue" alt="maintained - yes">  
   <img src=:"https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="" />
 </p>
+
+
+<div align="center">
+  <img height="250" src="https://cdn.discordapp.com/attachments/1012691893865414670/1058211743865778286/gstarrltd_abrupt_chaos_24718df1-55a0-4c87-898f-6a2807c8876c.png"  />
+  
+  <img height="250" src="https://cdn.discordapp.com/attachments/1012691893865414670/1058211604644237322/gstarrltd_abrupt_chaos_8c6a41d7-925f-47dc-a409-63b05211907e.png"  />
+  
+  <img height="250" src="https://cdn.midjourney.com/acbdfab8-4600-4075-b24a-313e23cdf228/grid_0.png"  />
+</div>
+
 - ⚡ Fun fact **I'm a buddhist, a dj,I do art, and practice vipassana**
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gregoryStarr)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 
 <h3 align="center">Languages and Tools:</h3>
