@@ -13,12 +13,6 @@
 
 <br/>
 
-<div align="center">
-  <img height="220" src="https://cdn.discordapp.com/attachments/1012691893865414670/1058212538841579610/gstarrltd_abrupt_chaos_89d06322-eac7-4ffc-8453-eb8b5e652a7d.png" alt="Abstract Chaos 1" />
-  <img height="220" src="https://cdn.discordapp.com/attachments/1012691893865414670/1058212108858306670/gstarrltd_abrupt_chaos_aa8dc983-c54e-44a3-a7f4-933808070518.png" alt="Abstract Chaos 2" />
-  <img height="220" src="https://cdn.discordapp.com/ephemeral-attachments/1012691893865414670/1058212437251338250/progress_image_90_88549c33-5b2f-4db1-bfc4-dc44c0cafbd0.webp" alt="Abstract Chaos 3" />
-</div>
-
 ---
 
 ### About Me
@@ -69,31 +63,31 @@ I’m a developer who loves pushing boundaries in UI/UX, creating sleek and main
 
 ---
 
-### Design Showcase
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+### Design Aesthetics I Emulate
+<div align="center" class="showcase" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   <!-- Image 1 -->
   <img 
-    src="http://access-5016588406.webspace-host.com/astralis/images/djmsre_httpss.mj.runn7LNtMFbWOI_httpss.mj.runDIdp9ObNnhs_http_e6ae803e-0a9a-45de-9dda-3c6090cbb2ee_1.png"
+    src="https://astralisone.com/images/1.png"
     alt="UI/UX Design 1" 
-    style="max-width: 280px; border-radius: 8px;"
+    style="max-width: 25%; border-radius: 8px; width:20%;"
   />
   <!-- Image 2 -->
   <img 
-    src="http://access-5016588406.webspace-host.com/astralis/images/djmsre_httpss.mj.runn7LNtMFbWOI_httpss.mj.runDIdp9ObNnhs_http_db1f1897-e4bd-4cfc-b376-7ac57993f170_1.png"
+    src="https://astralisone.com/images/2.png"
     alt="UI/UX Design 2" 
-    style="max-width: 280px; border-radius: 8px;"
+    style="max-width: 25%; border-radius: 8px; width:20%;"
   />
   <!-- Image 3 -->
   <img 
-    src="http://access-5016588406.webspace-host.com/astralis/images/djmsre_httpss.mj.runn7LNtMFbWOI_httpss.mj.runDIdp9ObNnhs_http_99b66892-fc8b-4e0e-80e4-aba23a13a04e_0.png"
+    src="https://astralisone.com/images/3.png"
     alt="UI/UX Design 3" 
-    style="max-width: 280px; border-radius: 8px;"
+    style="max-width: 25%; border-radius: 8px; width:20%;"
   />
   <!-- Image 4 -->
   <img 
-    src="http://access-5016588406.webspace-host.com/astralis/images/djmsre_httpss.mj.runn7LNtMFbWOI_httpss.mj.runDIdp9ObNnhs_http_88c11966-f933-46d9-ba39-0ec40e4a3c94_1.png"
+    src="https://astralisone.com/images/4.png"
     alt="UI/UX Design 4" 
-    style="max-width: 280px; border-radius: 8px;"
+    style="max-width: 25%; border-radius: 8px; width:20%;"
   />
 </div>
 
@@ -106,8 +100,17 @@ I’m a developer who loves pushing boundaries in UI/UX, creating sleek and main
 
 ---
 
-### Interactive Git Commit Grid
+### GitHub Profile Summary Cards
+<!-- 
+  Cards courtesy of https://github.com/vn7n24fzkq/github-profile-summary-cards
+  You can customize the theme (zenburn, github_dark, etc.)
+  and change the offset if needed
+-->
+
 <div align="center">
-  <!-- Snake animation from Platane/snk, can be customized -->
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake commit grid" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregoryStarr&theme=zenburn" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gregoryStarr&theme=zenburn" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gregoryStarr&theme=zenburn" alt="Most Commit Language" />
+  <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gregoryStarr&theme=zenburn" alt="Stats" /-->
+  <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gregoryStarr&theme=zenburn&utcOffset=-5" alt="Productive Time" /-->
 </div>
