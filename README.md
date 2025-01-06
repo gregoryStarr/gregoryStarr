@@ -95,7 +95,7 @@ I’m a developer who loves pushing boundaries in UI/UX, creating sleek and main
 
 ### Projects & Opportunities
 - **[astralisone.com](https://astralisone.com)** – My AI-driven solutions, architecture, and consulting brand.  
-- **[bassministry](https://lab.astralisone.com/bassministry)** – A creative platform combining music and technology for immersive experiences.  
+- **[bassministry.com](https://www.bassministry.com)** – A creative platform combining music and technology for immersive experiences.  
 - **Open to New Opportunities** – Whether you’re looking for a developer, consultant, or collaborator, feel free to reach out!
 
 ---
