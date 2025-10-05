@@ -38,38 +38,6 @@ I’m a developer who loves pushing boundaries in UI/UX, creating sleek and main
 
 ---
 
-
-
-### Design Aesthetics I Emulate
-<div align="center" class="showcase" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-  <!-- Image 1 -->
-  <img 
-    src="https://astralisone.com/images/1.png"
-    alt="UI/UX Design 1" 
-    style="max-width: 25%; border-radius: 8px; width:20%;"
-  />
-  <!-- Image 2 -->
-  <img 
-    src="https://astralisone.com/images/2.png"
-    alt="UI/UX Design 2" 
-    style="max-width: 25%; border-radius: 8px; width:20%;"
-  />
-  <!-- Image 3 -->
-  <img 
-    src="https://astralisone.com/images/3.png"
-    alt="UI/UX Design 3" 
-    style="max-width: 25%; border-radius: 8px; width:20%;"
-  />
-  <!-- Image 4 -->
-  <img 
-    src="https://astralisone.com/images/4.png"
-    alt="UI/UX Design 4" 
-    style="max-width: 25%; border-radius: 8px; width:20%;"
-  />
-</div>
-
----
-
 ### Projects & Opportunities
 - **[astralisone.com](https://astralisone.com)** – My AI-driven solutions, architecture, and consulting brand.  
 - **[bassministry.com](https://www.bassministry.com)** – A creative platform combining music and technology for immersive experiences.  
