@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=FriendFinder&logo=aff&label=&color=red&logoColor=white&style=for-the-badge" height="20" alt="FriendFinder logo" />
   <img src="https://img.shields.io/static/v1?message=Gerson/Lerman&logo=glg&label=&color=gray&logoColor=white&style=for-the-badge" height="20" alt="Gerson/Lerman logo" />
-  <img src="https://img.shields.io/static/v1?message=RAPP Inc&logo=rapp&label=&color=orange&logoColor=white&style=for-the-badge" height="20" alt="RAPP Inc logo" />
-  <img src="https://img.shields.io/static/v1?message=US ARMY&logo=army&label=&color=green&logoColor=white&style=for-the-badge" height="20" alt="US ARMY logo" />
+  <img src="https://img.shields.io/static/v1?message=RAPPInc&logo=AFF&label=&color=orange&logoColor=white&style=for-the-badge" height="20" alt="RAPP Inc logo" />
+  <img src="https://img.shields.io/static/v1?message=USARMY&logo=SA&label=&color=green&logoColor=white&style=for-the-badge" height="20" alt="US ARMY logo" />
   <img src="https://img.shields.io/static/v1?message=SENIORADVISOR&logo=sa&label=&color=pink&logoColor=white&style=for-the-badge" height="20" alt="SENIORADVISOR logo" />
 </div>
 
