@@ -3,7 +3,6 @@
 
 <!-- Custom Badge Section -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=YAHOO&logo=yahoo Inc&label=&color=purple&logoColor=white&style=for-the-badge" height="20" alt="Yahoo Inc logo" />
   <img src="https://img.shields.io/static/v1?message=FriendFinder&logo=aff&label=&color=red&logoColor=white&style=for-the-badge" height="20" alt="FriendFinder logo" />
   <img src="https://img.shields.io/static/v1?message=Gerson/Lerman&logo=glg&label=&color=gray&logoColor=white&style=for-the-badge" height="20" alt="Gerson/Lerman logo" />
   <img src="https://img.shields.io/static/v1?message=RAPP Inc&logo=rapp&label=&color=orange&logoColor=white&style=for-the-badge" height="20" alt="RAPP Inc logo" />
@@ -21,7 +20,6 @@
 I’m a developer who loves pushing boundaries in UI/UX, creating sleek and maintainable code, and experimenting with emerging technologies. My background spans building front-end interfaces and architecting scalable solutions on the back end.
 
 - **Agentic AI Workflows & LLM Integration** are my current focuses.  
-- **All my personal projects are found at** [lab.astralisone.com](https://lab.astralisone.com)  
 - **Ask me about:** Cloud and Frontend architecture, React, TypeScript, UI/UX, AI integration and more!  
 - **Check out my writing:** [Medium, Dev.to](https://medium.com/@gstarrltd)  
 - **Contact:** gregory.a.starr@gmail.com  
